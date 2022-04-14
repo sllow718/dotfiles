@@ -69,3 +69,5 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export PATH=/Users/pohmingfu/.npm-global/bin:./bin:./node_modules/.bin:/Users/pohmingfu/.rbenv/bin:./bin:./node_modules/.bin:/Users/pohmingfu/.rbenv/bin:./bin:./node_modules/.bin:/Users/pohmingfu/.rbenv/bin:/Users/pohmingfu/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:mv chromedriver /usr/local/bin:/usr/local/sbin:/usr/local/sbin:/usr/local/sbin:/opt/homebrew/bin:/opt/homebrew/bin
+export PATH=/opt/homebrew/bin:/Users/pohmingfu/.npm-global/bin:./bin:./node_modules/.bin:/Users/pohmingfu/.rbenv/bin:./bin:./node_modules/.bin:/Users/pohmingfu/.rbenv/bin:./bin:./node_modules/.bin:/Users/pohmingfu/.rbenv/bin:/Users/pohmingfu/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:mv
